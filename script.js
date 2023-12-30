@@ -1,5 +1,5 @@
-// Jai shree Ram 
-// Code Net
+// Techminded 
+// TechTalk
 
 
 function send() {
@@ -53,7 +53,7 @@ function send() {
       return 'id_' + Math.random().toString(36).substr(2, 9); // Random ID generation
    }
 }
-// function for redirect you on my instagram page
+// function for redirect you on my telegram channel 
 function insta() {
-   location = 'https://www.instagram.com/c0denet/';
+   location = 'https://t.me/Tech_Minded';
 }
